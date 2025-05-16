@@ -90,5 +90,3 @@ Attrition lebih banyak terjadi pada pria (~58.6%) dibanding wanita (~41.4%). Wal
 **5. Bangun Sistem Feedback Berbasis Data untuk Pencegahan Attrition:**
 Tingginya attrition di beberapa kelompok menunjukkan perlunya pemantauan lebih awal.Disarankan membuat survei kepuasan berkala, indikator early-warning berbasis data HRIS, serta sistem exit interview yang lebih terstruktur agar perusahaan dapat merespons masalah sebelum karyawan memutuskan keluar.
 
----
-
