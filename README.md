@@ -75,19 +75,19 @@ Analisis menunjukkan bahwa tingkat attrition tinggi di Jaya Jaya Maju terutama t
 
 ### Rekomendasi Action Items (Optional)
 
-**1. Audit Lingkungan Kerja di Departemen R&D dan Sales**
+**1. Audit Lingkungan Kerja di Departemen R&D dan Sales:**
 Data menunjukkan bahwa R&D memiliki jumlah attrition tertinggi, disusul oleh Sales. Perusahaan perlu meninjau ulang beban kerja, gaya kepemimpinan, serta kepuasan kerja di dua departemen ini, karena tingginya angka keluar dapat mengganggu produktivitas dan inovasi.
 
-**2. Tinjau Kebijakan Lembur (Overtime)**
+**2. Tinjau Kebijakan Lembur (Overtime):**
 Attrition lebih tinggi pada karyawan yang lembur dibandingkan yang tidak. Hal ini mengindikasikan beban kerja yang berlebih. Disarankan agar perusahaan menyeimbangkan target dengan kapasitas kerja karyawan, dan menyediakan kompensasi yang adil atau fleksibilitas jam kerja.
 
-**3. Fokus Perbaikan pada Karyawan dengan Work Life Balance Skor 3**
+**3. Fokus Perbaikan pada Karyawan dengan Work Life Balance Skor 3:**
 Skor 3 justru mencatatkan angka attrition tertinggi, bukan skor rendah seperti yang diharapkan.Ini bisa menandakan bahwa meski terlihat “cukup”, persepsi work-life balance masih belum optimal. Program peningkatan kualitas hidup seperti mental health support, fleksibilitas, atau pengurangan beban kerja bisa sangat efektif.
 
-**4. Kembangkan Strategi Retensi Berdasarkan Gender**
+**4. Kembangkan Strategi Retensi Berdasarkan Gender:**
 Attrition lebih banyak terjadi pada pria (~58.6%) dibanding wanita (~41.4%). Walaupun distribusi relatif seimbang, pendekatan retensi bisa dipersonalisasi agar lebih efektif, misalnya program mentoring atau penyesuaian benefit berdasarkan kebutuhan dominan masing-masing kelompok.
 
-**5. Bangun Sistem Feedback Berbasis Data untuk Pencegahan Attrition**
+**5. Bangun Sistem Feedback Berbasis Data untuk Pencegahan Attrition:**
 Tingginya attrition di beberapa kelompok menunjukkan perlunya pemantauan lebih awal.Disarankan membuat survei kepuasan berkala, indikator early-warning berbasis data HRIS, serta sistem exit interview yang lebih terstruktur agar perusahaan dapat merespons masalah sebelum karyawan memutuskan keluar.
 
 ---
